@@ -1,0 +1,11 @@
+{
+  "name": "dietapi",
+  "version": "0.0.1",
+  "description": "API server for diet application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Randy Wressell",
+  "license": "ISC"
+}
