@@ -15,6 +15,7 @@
 .idea/**/uiDesigner.xml
 *.iml
 .idea/
+node_modules
 
 # Gradle:
 .idea/**/gradle.xml
