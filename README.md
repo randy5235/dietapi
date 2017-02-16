@@ -1,5 +1,5 @@
-# rest_test
+# Diet Tracker Api
 
-Basic object store built using express and nodejs
+REST-like API service for diet tracking application.
 
-Proof of Concept.
+
