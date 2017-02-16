@@ -1,5 +1,5 @@
 {
-  "name": "Diet Tracker Api",
+  "name": "diet tracker api",
   "version": "1.0.0",
   "description": "Api used to enter dietary information",
   "main": "server.js",
