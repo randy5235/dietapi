@@ -1,5 +1,5 @@
 const express = require('express');
-let dataModel = require('../lib/dataModel');
+let dataModel = require('../../lib/dataModel');
 let id = (req) => {return req.params.id}
 
 
