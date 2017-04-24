@@ -40,8 +40,6 @@ router.put('/:id', (req, res) => {
   }
 });
 
-module.exports = router;
-
 router.delete('/:id', (req, res) => {
   if (!dataModel.model[req.params.id]) {
     res.status(400).send(`${req.params.id} does not exist`);
@@ -50,3 +48,6 @@ router.delete('/:id', (req, res) => {
     res.status(400).send(`${req.params.id} has been deleted`);
   }
 });
+
+module.exports = router;
+
